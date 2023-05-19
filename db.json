@@ -1,0 +1,202 @@
+{
+    "stationery": [
+      {
+        "id": 0,
+        "imageUrl": "https://penstore.com/img/bilder/artiklar/liten/110763_r_S.jpg?m=1598430007?w=480",
+        "manufacturer": "Staedler",
+        "name": "Pencil Mars Lumograph 100",
+        "price": [555],
+        "category": 0,
+        "rating": 4
+      },
+      {
+        "id": 1,
+        "imageUrl": "https://penstore.com/img/bilder/artiklar/zoom/100490_2.jpg?m=1598346549?w=480",
+        "manufacturer": "Blackwing",
+        "name": "Matte Soft 12-pack",
+        "price": [245],
+        "category": 0,
+        "rating": 6
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://penstore.com/img/bilder/artiklar/liten/128256_r_S.jpg?m=1660205166?w=480",
+        "manufacturer": "Faber-Castell",
+        "name": "Graphite Pencil 2001",
+        "price": [295],
+        "category": 0,
+        "rating": 4
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://penstore.com/img/bilder/artiklar/liten/128945_r_S.jpg?m=1666095769?w=480",
+        "manufacturer": "Bruynzeel",
+        "name": "Design Graphite Pencil",
+        "price": [275],
+        "category": 0,
+        "rating": 2
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://penstore.com/bilder/artiklar/zoom/110196_r_1.jpg?m=1598430004?constrain=1",
+        "manufacturer": "Uni",
+        "name": "Pin Fineliner",
+        "price": [415],
+        "category": 1,
+        "rating": 8
+      },
+      {
+        "id": 5,
+        "imageUrl": "https://penstore.com/img/bilder/artiklar/liten/109394_r_S.jpg?m=1598430001?w=480",
+        "manufacturer": "Pilot",
+        "name": "Falcon Fountain Pen Black",
+        "price": [580],
+        "category": 1,
+        "rating": 2
+      },
+      {
+        "id": 6,
+        "imageUrl": "https://penstore.com/img/bilder/artiklar/liten/101656_r_S.jpg?m=1598430012?w=480",
+        "manufacturer": "Fisher Space Pen",
+        "name": "Pressurized refill for Space Pen & Parker",
+        "price": [675],
+        "category": 1,
+        "rating": 9
+      },
+      {
+        "id": 7,
+        "imageUrl": "https://penstore.com/bilder/artiklar/zoom/101628_1.jpg?m=1676989674?constrain=1",
+        "manufacturer": "Fisher Space Pen",
+        "name": "AG7 Original Astronaut Space Pen",
+        "price": [450],
+        "category": 1,
+        "rating": 9
+      },
+      {
+        "id": 8,
+        "imageUrl": "https://penstore.com/img/bilder/artiklar/liten/111126_S.jpg?m=1598350159?w=480",
+        "manufacturer": "Staedtler",
+        "name": "Metal ruler 30 cm",
+        "price": [395],
+        "category": 2,
+        "rating": 9
+      },
+      {
+        "id": 9,
+        "imageUrl": "https://penstore.com/img/bilder/artiklar/liten/102246_S.jpg?m=1598347952?w=480",
+        "manufacturer": "M+R",
+        "name": "Wooden Ruler 17 cm",
+        "price": [285],
+        "category": 2,
+        "rating": 7
+      },
+      {
+        "id": 10,
+        "imageUrl": "https://penstore.com/img/bilder/artiklar/liten/101725_S.jpg?m=1598347558?w=480",
+        "manufacturer": "Linex",
+        "name": "Aluminium Tri-Scale Ruler 30 cm",
+        "price": [310],
+        "category": 2,
+        "rating": 7
+      },
+      {
+        "id": 11,
+        "imageUrl": "https://penstore.com/img/bilder/artiklar/liten/110851_S.jpg?m=1598350032&w=480",
+        "manufacturer": "Staedtler",
+        "name": "Eraser Mars Plastic",
+        "price": [305],
+        "category": 3,
+        "rating": 7
+      },
+      {
+        "id": 12,
+        "imageUrl": "https://penstore.com/img/bilder/artiklar/liten/110852_S.jpg?m=1598350032&w=480",
+        "manufacturer": "Staedtler",
+        "name": "Eraser Mars Plastic Combi",
+        "price": [320],
+        "category": 3,
+        "rating": 7
+      },
+      {
+        "id": 13,
+        "imageUrl": "https://penstore.com/img/bilder/artiklar/liten/105015_S.jpg?m=1646832483&w=480",
+        "manufacturer": "Caran d'Ache",
+        "name": "Eraser Design",
+        "price": [200],
+        "category": 3,
+        "rating": 7
+      },
+      {
+        "id": 14,
+        "imageUrl": "https://penstore.com/bilder/artiklar/zoom/104753_r_1.jpg?m=1598429998?constrain=1",
+        "manufacturer": "Sharpie",
+        "name": "Fine Marker",
+        "price": [300],
+        "category": 4,
+        "rating": 7
+      },
+      {
+        "id": 15,
+        "imageUrl": "https://penstore.com/bilder/artiklar/zoom/110049_r_1.jpg?m=1598430004?constrain=1",
+        "manufacturer": "Posca",
+        "name": "Posca Marker PC-3M Fine",
+        "price": [270],
+        "category": 4,
+        "rating": 7
+      },
+      {
+        "id": 16,
+        "imageUrl": "https://penstore.com/img/bilder/artiklar/liten/102298_r_S.jpg?m=1598430010?w=480",
+        "manufacturer": "Sakura",
+        "name": "IDenti-Pen Marker",
+        "price": [250],
+        "category": 4,
+        "rating": 7
+      },
+      {
+        "id": 17,
+        "imageUrl": "https://i.postimg.cc/K1ycxrXs/basebolka.jpg",
+        "manufacturer": "Ala-Too",
+        "name": "Baseball Cap",
+        "price": [500],
+        "category": 5,
+        "rating": 10
+      },
+      {
+        "id": 18,
+        "imageUrl": "https://i.postimg.cc/dkDw45dD/sumka.jpg",
+        "manufacturer": "Ala-Too",
+        "name": "Bag",
+        "price": [1000],
+        "category": 5,
+        "rating": 10
+      },
+      {
+        "id": 19,
+        "imageUrl": "https://i.postimg.cc/qtJkCJvs/futbolka.jpg",
+        "manufacturer": "Ala-Too",
+        "name": "T-Shirt",
+        "price": [500],
+        "category": 6,
+        "rating": 10
+      },
+      {
+        "id": 20,
+        "imageUrl": "https://i.postimg.cc/gwgGVCxf/tolstovka.jpg",
+        "manufacturer": "Ala-Too",
+        "name": "Sweatshirt",
+        "price": [1000],
+        "category": 6,
+        "rating": 10
+      },
+      {
+        "id": 21,
+        "imageUrl": "https://i.postimg.cc/8P39ymRN/noski.jpg",
+        "manufacturer": "Ala-Too",
+        "name": "Socks",
+        "price": [250],
+        "category": 6,
+        "rating": 10
+      }
+    ]
+  }
